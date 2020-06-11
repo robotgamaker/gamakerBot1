@@ -1,0 +1,28 @@
+Datos para descargar los archivos del GamakerBot1 en dropbox.com:
+Usuario:    gamaker3d@gmail.com
+Contraseña:  gamaker
+
+
+Link descarga Arduino:  https://www.arduino.cc/en/main/software
+
+
+Link para descarga de versión no oficial de Ardublock que funciona con Arduino 1.8: 
+https://github.com/taweili/ardublock/releases/download/beta-20171028/ardublock-all-master-beta-20171028.jar
+
+
+
+Link con más info sobres shields:  https://aprendiendoarduino.wordpress.com/2015/03/23/shields-para-arduino/
+
+
+
+Link de descarga de la app Bluetooth RC Car Controller (para enviar comandos bluetooth al Arduino):
+https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
+
+
+Link de descarga de la app Serial Bluetooth Terminal (otra app para enviar comandos bluetooth al Arduino):
+https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
+
+
+
+
+
